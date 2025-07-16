@@ -100,8 +100,12 @@ A series of rules to follow to make your data structured as wanted by the applic
 ## 🎈 Usage <a name="usage"></a>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e568cc00-23c7-498f-b418-9340fe0d184a" alt="PasteurAIze Demo" width="700">
+  <img src="https://github.com/user-attachments/assets/f0853328-88af-442f-9b7e-63dfb2981511" alt="PasteurAIze Demo" width="700">
 </div>
+
+
+
+
 
 
 
