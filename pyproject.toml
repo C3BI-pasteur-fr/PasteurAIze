@@ -1,0 +1,24 @@
+[project]
+name = "agentic-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "crawl4ai>=0.6.3",
+    "langchain-openai>=0.3.17",
+    "logfire>=3.16.0",
+    "pandas>=2.2.3",
+    "psycopg2>=2.9.10",
+    "pydantic-ai>=0.2.6",
+    "scikit-learn>=1.7.0rc1",
+    "streamlit>=1.45.1",
+    "bibtexparser==1.4.3",
+    "vanna>=0.7.9",
+    "chromadb>=1.0.10",
+    "arxiv>=2.2.0",
+    "scholarly>=1.7.11",
+    "kaleido==0.2.1",
+    "ruamel-yaml>=0.18.13",
+    "transformers>=4.53.1",
+]
