@@ -100,7 +100,7 @@ A series of rules to follow to make your data structured as wanted by the applic
 ## 🎈 Usage <a name="usage"></a>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/dac7ba5c-904d-4d8c-9656-8fd983b30ac4" alt="PasteurAIze Demo" width="700">
+  <img src="https://github.com/user-attachments/assets/e568cc00-23c7-498f-b418-9340fe0d184a" alt="PasteurAIze Demo" width="700">
 </div>
 
 
@@ -116,9 +116,5 @@ A series of rules to follow to make your data structured as wanted by the applic
 - [Pydantic-Logfire](https://pydantic.dev/logfire) - Debugging Agent
 - [Scholarly](https://github.com/scholarly-python-package/scholarly) - Searching papers on Google Scholar
 
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@Tmegaa](https://github.com/Tmegaa) - Idea & Initial work
 
 
