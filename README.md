@@ -99,16 +99,7 @@ A series of rules to follow to make your data structured as wanted by the applic
 
 ## 🎈 Usage <a name="usage"></a>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f0853328-88af-442f-9b7e-63dfb2981511" alt="PasteurAIze Demo" width="700">
-</div>
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/f0853328-88af-442f-9b7e-63dfb2981511
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
