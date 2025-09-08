@@ -1,1 +1,5 @@
 .DS_Store
+.env
+*.py
+*.sqlite3
+pasteuraize/__pycache__/

@@ -20,9 +20,9 @@ dotenv.load_dotenv()
 # Load environment variables from .env file
 
 folder_path = os.getenv("FOLDER_PATH")
-api_key = os.getenv("API_KEY_LARGE")
+api_key = os.getenv("API_KEY")
 base_url = os.getenv("BASE_URL")
-llm_model = "pixtral-large-2411-local"
+llm_model = os.getenv("DATA_MODEL")
 db = os.getenv("DB_NAME")
 # Create a database
 schema_name = str(input("Enter the name of the project to create: "))
